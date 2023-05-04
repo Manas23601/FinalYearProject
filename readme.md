@@ -9,3 +9,7 @@ https://www.kaggle.com/datasets/jessicali9530/celeba-dataset?select=img_align_ce
 pip install requirments.txt
 ```
 
+# Run
+
+run the jupyter notebook.
+Don't forget to create a `model` folder to store the weights
